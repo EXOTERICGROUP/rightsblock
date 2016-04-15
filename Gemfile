@@ -10,6 +10,8 @@ gem 'sqlite3', group: [:development, :test]
 
 #use pg in production
 gem 'pg', group: :production
+# addimng bootstrap style
+gem 'bootstrap-sass'
 
 gem 'rails_12factor', group: :production
 
